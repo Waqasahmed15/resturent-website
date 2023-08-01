@@ -11,6 +11,7 @@
   display: flex;
   align-items: center;
   color: antiquewhite;
+
 }
 #website-name {
   color: rgb(255, 217, 0);
@@ -189,42 +190,9 @@ input:hover {
   text-transform: capitalize;
   text-shadow: 0px 0px 25px rgb(3, 3, 1);
 }
-/* food page start */
-#food-se {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url(food-cover.jpg);
-
-  width: 100%;
-  height: 100%;
-
-  background-size: cover;
-
+#gro-box{
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-#gro-box {
-  background-image: linear-gradient(
-    to right,
-    rgba(15, 15, 15, 15),
-    rgba(110, 110, 110, 80)
-  );
-
-  width: 100%;
-  height: 30%;
-  color: rgb(234, 238, 241);
-  display: flex;
-  align-items: center;
-
-  justify-content: space-between;
-  position: absolute;
-}
-
-.box {
-  width: 100%;
-  height: 100%;
-  margin: 50px 40px 50px 40px;
-  display: flex;
-  align-items: center;
+  
 }
