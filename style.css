@@ -150,7 +150,7 @@ input:hover {
   display: flex;
 }
 #first img {
-  width: 80%;
+  width: 75%;
   height: 100%;
   display: flex;
   align-items: center;
@@ -167,7 +167,7 @@ input:hover {
   margin-left: 40px;
   color: gold;
   font-family: fantasy;
-  font-size: 440%;
+  font-size: 420%;
   justify-content: center;
   align-items: center;
   align-items: flex;
